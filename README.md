@@ -1,6 +1,6 @@
  - 👋 Hi, I’m @VanessaAparecidaSantos
 - 👀 I’m interested in  aprender
-- 🌱 I’m currently estou   aprende pensamento computacional.
+- 🌱 I’m currently estou   aprendendo pensamento computacional.
 - 💞️ eu gosto de  ler livros.
 - 📫 How to reach me vanessaap.pien@gmail.com.br
 
